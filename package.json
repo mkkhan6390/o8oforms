@@ -1,0 +1,12 @@
+{
+  "name": "o8oform",
+  "version": "1.0.0",
+  "description": "Form analyzer extension",
+  "dependencies": {
+    "groq-sdk": "^0.3.0",
+    "webpack": "^5.99.7"
+  },
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
+  }
+}
